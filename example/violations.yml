@@ -1,0 +1,10 @@
+this:
+  is:
+    a:
+      test:
+        file:
+          with:
+            some:
+              violations:
+                - some_violation
+                - it_is_missing_a_doc_start
